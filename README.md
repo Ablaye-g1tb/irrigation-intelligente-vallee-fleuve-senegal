@@ -1,6 +1,3 @@
-# irrigation-intelligente-vallee-fleuve-senegal
-Système de recommandation d'irrigation basé sur le ML — Vallée du Fleuve Sénégal
-
 # Irrigation Intelligente — Vallée du Fleuve Sénégal
 
 > Système de recommandation des doses et fréquences d'irrigation basé sur le Machine Learning,
