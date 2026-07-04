@@ -24,6 +24,21 @@ leurs pratiques d'irrigation.
 - `models/` — Modèles entraînés (.pkl)
 - `figures/` — Visualisations scientifiques
 
+## Références scientifiques
+
+Ces travaux fondent la démarche méthodologique du projet :
+
+- **Djaman et al. (2015)** — Evaluation of sixteen reference 
+  evapotranspiration methods under sahelian conditions 
+  in the Senegal River Valley.
+  *Journal of Hydrology: Regional Studies, 3, 139–159*
+  → Justifie le choix de la méthode Penman-Monteith pour ET0
+
+- **Djaman et al. (2019)** — Actual evapotranspiration and 
+  crop coefficients of irrigated lowland rice under semiarid climate.
+  *Italian Journal of Agronomy, 14:1059*
+  → Valide les coefficients culturaux Kc et les besoins en irrigation  
+
 ## Stack technique
 Python | Google Earth Engine | Sentinel-2 | NASA POWER | XGBoost | SHAP | Pandas
 
